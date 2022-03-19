@@ -1,0 +1,3 @@
+[submodule "submodule-child"]
+	path = submodule-child
+	url = git@github.com:kumarstack55/submodule-child.git
